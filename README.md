@@ -27,14 +27,14 @@
 
 ## Schedule
 
-#### 1주차 (2021.02.23 ~ 2021.03.02)
+### 1주차 (2021.02.23 ~ 2021.03.02)
 
-##### 공통 문제
+#### 공통 문제
 
 - [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) - [📁이동](https://github.com/LeeA0/AlgoAlgo/tree/main/Programmers/Stack&Queue/다리를지나는트럭)
 - [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) - 📁이동
 
-##### 개별문제
+#### 개별문제
 
 - 박상우
 - 박수빈
