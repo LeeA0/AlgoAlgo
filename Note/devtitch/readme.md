@@ -1,2 +1,2 @@
-# 박수빈(devtitch)👩‍💻
-안녕하세요.
+# 박수빈([devtitch](https://github.com/devtitch))👩‍💻
+
