@@ -28,7 +28,7 @@
 
    : Stack 1 에다가 넣음
 
-![image-20210302202101598](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20210302202101598.png)
+![image-20210302202101598](https://user-images.githubusercontent.com/72197311/109657114-7a35cb00-7ba8-11eb-8505-7b577e3f6a42.png)
 
 
 
@@ -42,7 +42,7 @@
 
    
 
-![image-20210302202519317](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20210302202519317.png)
+![image-20210302202519317](https://user-images.githubusercontent.com/72197311/109657154-86218d00-7ba8-11eb-8172-de4e988ff0b4.png)
 
 
 
