@@ -37,17 +37,31 @@
 
 #### 개인 조사 내용
 
-- 박상우
-- 박수빈
-- 서범석
-- 이아영
+- 박상우 - 📖이동
+- 박수빈 - [📖이동](https://github.com/LeeA0/AlgoAlgo/blob/main/Note/devtitch/DoubleStackQueue.md)
+- 서범석 - 📖이동
+- 이아영 - [📖이동](https://github.com/LeeA0/AlgoAlgo/blob/main/Note/LeeA0/1주차/note.md)
 
 ### 2주차(2021.03.02~2021.03.08)
 
 #### 공통문제
 
-- [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) - [📁이동]()
-- [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) - [📁이동]()
+- [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) - [📁이동](https://github.com/LeeA0/AlgoAlgo/tree/main/Programmers/Hash/위장)
+- [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) - [📁이동](https://github.com/LeeA0/AlgoAlgo/tree/main/Programmers/Hash/베스트앨범)
+
+#### 개인 조사 내용
+
+- 박상우 - 📖이동
+- 박수빈 - 📖이동
+- 서범석 - 📖이동
+- 이아영 - 📖이동
+
+### 3주차(2021.03.09~2021.03.15)
+
+#### 공통문제
+
+- [단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163) - [📁이동]()
+- [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) - [📁이동]()
 
 #### 개인 조사 내용
 
