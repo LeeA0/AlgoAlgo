@@ -16,3 +16,7 @@
 
     -> 시간 복잡도를 잘 계산하자...ㅠ
 
+### 2021-03-08
+
+- [Programmers_베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)  - [📄이동](https://github.com/LeeA0/AlgoAlgo/blob/main/Programmers/Hash/베스트앨범/AY_베스트앨범.java)
+  - 생각보다 고려할 게 많아서 코드를 짜는 시간보다 생각하는 시간이 더 길었다. 다른 사람의 코드 중에서 stream을 이용해 풀은 경우가 있었는데, stream에 대해 공부해야겠다고 생각했다.
