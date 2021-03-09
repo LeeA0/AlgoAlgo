@@ -8,3 +8,6 @@
 
 - Note - [📄 이동](https://github.com/LeeA0/AlgoAlgo/blob/main/Note/LeeA0/2주차/note.md)
 
+## [3주차](https://github.com/LeeA0/AlgoAlgo/blob/main/Note/LeeA0/3주차)
+
+- Note - [📄 이동](https://github.com/LeeA0/AlgoAlgo/blob/main/Note/LeeA0/3주차/note.md)
