@@ -51,7 +51,7 @@
 
 #### 개인 조사 내용
 
-- 박상우 - [📖이동](https://github.com/LeeA0/AlgoAlgo/blob/main/Note/upswp/HashMap 공식문서로 알아보기.md)
+- 박상우 - [📖이동](https://github.com/LeeA0/AlgoAlgo/blob/main/Note/upswp/HashMap%20공식문서로%20알아보기.md)
 - 박수빈 - [📖이동](https://github.com/LeeA0/AlgoAlgo/blob/main/Note/devtitch/BinaryTreeTraversals.md)
 - 서범석 - 📖이동
 - 이아영 - 📖이동
