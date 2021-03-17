@@ -53,19 +53,33 @@
 
 - 박상우 - [📖이동](https://github.com/LeeA0/AlgoAlgo/blob/main/Note/upswp/HashMap%20공식문서로%20알아보기.md)
 - 박수빈 - [📖이동](https://github.com/LeeA0/AlgoAlgo/blob/main/Note/devtitch/BinaryTreeTraversals.md)
-- 서범석 - 📖이동
-- 이아영 - 📖이동
+- 서범석 - [📖이동](https://github.com/LeeA0/AlgoAlgo/blob/main/Note/callipenguin/2주차_note.md)
+- 이아영 - [📖이동](https://github.com/LeeA0/AlgoAlgo/blob/main/Note/LeeA0/2주차/note.md)
 
 ### 3주차(2021.03.09~2021.03.15)
 
 #### 공통문제
 
-- [단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163) - [📁이동]()
-- [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) - [📁이동]()
+- [단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163) - [📁이동](https://github.com/LeeA0/AlgoAlgo/tree/main/Programmers/DFS&BFS/단어변환)
+- [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) - [📁이동](https://github.com/LeeA0/AlgoAlgo/tree/main/Programmers/DFS&BFS/여행경로)
 
 #### 개인 조사 내용
 
-- 박상우
-- 박수빈-  [📖이동](https://github.com/LeeA0/AlgoAlgo/blob/main/Note/devtitch/AnagramTest.md)
-- 서범석
-- 이아영
+- 박상우 - 📖이동
+- 박수빈 - [📖이동](https://github.com/LeeA0/AlgoAlgo/blob/main/Note/devtitch/AnagramTest.md)
+- 서범석 - 📖이동
+- 이아영 - 📖이동
+
+### 4주차(2021.03.16~2021.03.22)
+
+#### 공통문제
+
+- [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) - 📁이동
+- [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) - 📁이동
+
+#### 개인 조사 내용
+
+- 박상우 - 📖이동
+- 박수빈 - 📖이동
+- 서범석 - 📖이동
+- 이아영 - 📖이동
