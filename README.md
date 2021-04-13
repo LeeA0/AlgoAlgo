@@ -74,15 +74,8 @@
 
 #### 공통문제
 
-- [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) - 📁이동
-- [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) - 📁이동
-
-#### 개인 조사 내용
-
-- 박상우 - 📖이동
-- 박수빈 - 📖이동
-- 서범석 - 📖이동
-- 이아영 - 📖이동
+- [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) - [📁이동](https://github.com/LeeA0/AlgoAlgo/tree/main/Programmers/Heap/디스크컨트롤러)
+- [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) - [📁이동](https://github.com/LeeA0/AlgoAlgo/tree/main/Programmers/Heap/이중우선순위큐)
 
 ### 5주차(2021.03.23~2021.04.13)
 
@@ -90,7 +83,7 @@
 
 #### 공통문제
 
-- [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) - 📁이동
+- [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) - [📁이동](https://github.com/LeeA0/AlgoAlgo/tree/main/Programmers/Graph/가장먼노드)
 
 #### 개인 조사 내용
 
